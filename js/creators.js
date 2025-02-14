@@ -15,7 +15,7 @@ let creators = [
 		name: `goe`,
 		url: `http://www.omission0.com/`,
 		check: 1,
-		comment: `祭りはゴールであり、またスタートでもある。`,
+		comment: `皆様のご参加お待ちしております`,
 	},
 ];
 
