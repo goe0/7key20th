@@ -1,4 +1,4 @@
-﻿'use strict';
+'use strict';
 
 let creators = [
 	/*
@@ -61,7 +61,7 @@ function createTable() {
 	});
 
 	creators.forEach(creator => {
-		const name = creator.url ? `<a href="${creator.url}">${creator.name}</a>` : creator.name;
+		const name = creator.url ? `<a href="${creator.url}" target="_blank">${creator.name}</a>` : creator.name;
 		const check = (creator.check === 1) ? `✅` : (creator.check === 2) ? `👀` : (creator.check === 3) ? `❌` : ``;
 		tableHTML += `<tr><td>${creator.id}</td><td>${name}</td><td>${check}</td><td>${creator.comment}</td></tr>`;
 	});
