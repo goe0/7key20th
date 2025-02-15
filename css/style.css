@@ -14,7 +14,19 @@ body {
 a:link    { color: #c8c8ff;}
 a:visited { color: #c8c8ff;}
 a:active  { color: #c8c8ff;}
-a:hover   { color: #c8c8ff; background: #808080;}
+a:hover   { color: #c8c8ff; background: #646464;}
+
+.banner {
+  margin: 20px;
+}
+
+.banner a:hover {
+  background: transparent;
+}
+
+.bannerSize {
+  margin-left: 10px;
+}
 
 header {
   background: url("../image/title.png") no-repeat center;
@@ -45,14 +57,14 @@ nav a {
   width: 200px;
   background: #181818;
   border-top: 1px solid #181818;
-  border-bottom: 1px solid #808080;
+  border-bottom: 1px solid #646464;
   text-decoration: none;
   transition: background 0.2s;
 }
 
 nav a:hover {
-  background: #808080;
-  border-top: 1px solid #808080;
+  background: #646464;
+  border-top: 1px solid #646464;
   text-decoration: none;
   transition: background 0s;
 }
@@ -64,7 +76,7 @@ nav a[href]:hover { color: #dcdcdc; }
 nav span {
   width: 198px;
 	background: #323232;
-  border: 1px solid #808080;
+  border: 1px solid #646464;
   border-bottom: 1px solid #323232;
 }
 
@@ -73,7 +85,7 @@ main {
   width: 958px;
 	background: #323232;
 	padding: 20px 20px 0 20px;
-  border: 1px solid #808080;
+  border: 1px solid #646464;
   border-top: 0;
 }
 
@@ -104,7 +116,7 @@ h2 {
 }
 
 .schedule {
-  margin: 18px 0 20px 15px;
+  margin: 15px 0 20px 15px;
 }
 
 .date {
@@ -132,20 +144,20 @@ p {
 
 .form {
   display: block;
-  width: 280px;
+  width: 270px;
   margin: 10px auto 20px;
   font-size: 20px;
 	text-align: center;
   text-decoration: none;
   background: #181818;
-  border: 1px solid #808080;
+  border: 1px solid #646464;
   padding: 10px;
   transition: background 0.2s;
 }
 
 .form:hover {
-  background: #808080;
-  border-top: 1px solid #808080;
+  background: #646464;
+  border-top: 1px solid #646464;
   text-decoration: none;
   transition: background 0s;
 }
@@ -156,7 +168,7 @@ p {
 
 .hashtag {
   margin: 10px;
-  background: #808080;
+  background: #646464;
 }
 
 .deadline {
@@ -165,7 +177,7 @@ p {
 }
 
 .template {
-  background: #808080;
+  background: #646464;
   margin-bottom: 20px;
   padding: 10px;
 }
@@ -185,14 +197,14 @@ section table {
 section th {
   text-align: center;
   height: 25px;
-  border: 1px solid #808080;
+  border: 1px solid #646464;
   background: #181818;
 }
 
 section td {
   text-align: center;
   padding: 8px;
-  border: 1px solid #808080;
+  border: 1px solid #646464;
 }
 
 .id {
