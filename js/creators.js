@@ -6,10 +6,17 @@ let creators = [
 		id: ,
 		name: ``,
 		url: ``,
-		check: 1,
+		check: ,
 		comment: ``,
 	},
 	*/
+	{
+		id: 2,
+		name: `蒼宮あいす`,
+		url: `http://www.icekirby.net`,
+		check: 0,
+		comment: `押しやすい某407作目でぃズな譜面になりますが、よろしくお願いいたします。`,
+	},
 	{
 		id: 1,
 		name: `goe`,
