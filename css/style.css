@@ -189,7 +189,7 @@ ul {
 }
 
 section table {
-  width: 660px;
+  width: 900px;
   margin: 0 0 30px 20px;
   border-collapse: collapse;
 }
@@ -209,10 +209,6 @@ section td {
 
 .id {
   width: 50px;
-}
-
-.name {
-  width: 80px;
 }
 
 .check {
