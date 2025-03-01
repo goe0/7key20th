@@ -14,7 +14,7 @@ let creators = [
 		id: 2,
 		name: `蒼宮あいす`,
 		url: `http://www.icekirby.net`,
-		check: 0,
+		check: 1,
 		comment: `押しやすい某407作目でぃズな譜面になりますが、よろしくお願いいたします。`,
 	},
 	{
@@ -53,7 +53,7 @@ function createTable() {
 		const sort = head[column].sort;
 		const display = head[column].display;
 		const tri = (sorter === sort) ? asc ? `▲` : `▼` : ``;
-		tableHTML += `<th class="sortable ${column}" onclick="sortTable('${sort}')">${display} ${tri}</th>`;
+		tableHTML += `<th class="sortable ${column}Head" onclick="sortTable('${sort}')">${display} ${tri}</th>`;
 	});
 
 	tableHTML += `</tr>`;
@@ -70,7 +70,7 @@ function createTable() {
 	creators.forEach(creator => {
 		const name = creator.url ? `<a href="${creator.url}" target="_blank">${creator.name}</a>` : creator.name;
 		const check = (creator.check === 1) ? `✅` : (creator.check === 2) ? `👀` : (creator.check === 3) ? `❌` : ``;
-		tableHTML += `<tr><td>${creator.id}</td><td>${name}</td><td>${check}</td><td>${creator.comment}</td></tr>`;
+		tableHTML += `<tr><td>${creator.id}</td><td>${name}</td><td>${check}</td><td class="comment">${creator.comment}</td></tr>`;
 	});
 
 	tableHTML += `</table>`;
