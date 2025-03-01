@@ -172,6 +172,8 @@ p {
 }
 
 .deadline {
+  width: 300px;
+  margin: 0 auto;
   font-size: 16px;
   font-weight: bold;
 }
@@ -207,12 +209,16 @@ section td {
   border: 1px solid #646464;
 }
 
-.id {
+.idHead {
   width: 50px;
 }
 
-.check {
+.checkHead {
   width: 80px;
+}
+
+.comment {
+  text-align: left;
 }
 
 .sortable {
