@@ -11,9 +11,16 @@ let creators = [
 	},
 	*/
 	{
+		id: 3,
+		name: `Cie`,
+		url: `https://terz3787.sakura.ne.jp/`,
+		check: 1,
+		comment: `キーボードスベスベマンジュウガニ`,
+	},
+	{
 		id: 2,
 		name: `蒼宮あいす`,
-		url: `http://www.icekirby.net`,
+		url: `http://www.icekirby.net/`,
 		check: 1,
 		comment: `押しやすい某407作目でぃズな譜面になりますが、よろしくお願いいたします。`,
 	},
