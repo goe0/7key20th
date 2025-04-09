@@ -11,6 +11,13 @@ let creators = [
 	},
 	*/
 	{
+		id: 5,
+		name: `chip`,
+		url: `https://chipstar64.sakura.ne.jp/`,
+		check: 1,
+		comment: `チップシはヤジリン大会で頭ひねりまくりの音ゲーマーで、誕生日を7日間祝うぶっ飛び野郎だぜ！(Grok談)`,
+	},
+	{
 		id: 4,
 		name: `蒼とピンクに氷と風`,
 		url: ``,
