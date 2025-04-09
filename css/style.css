@@ -213,6 +213,10 @@ section td {
 	width: 50px;
 }
 
+.nameHead {
+	width: 160px;
+}
+
 .checkHead {
 	width: 80px;
 }
