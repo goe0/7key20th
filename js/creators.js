@@ -11,6 +11,18 @@ let creators = [
 	},
 	*/
 	{
+		id: 6,
+		name: `さよなら合作`,
+		url: ``,
+		check: 3,
+		comment: `楽しかった旅路もこれが最後！<br>
+			この思い出は一生の宝物！<br>
+			皆との最高の経験を胸に刻んで！<br>
+			ぼくたち！！<br>
+			わたしたちは！！<br>
+			さよならします！！！！！！！<br>`,
+	},
+	{
 		id: 5,
 		name: `chip`,
 		url: `https://chipstar64.sakura.ne.jp/`,
