@@ -11,6 +11,14 @@ let creators = [
 	},
 	*/
 	{
+		id: 7,
+		name: `iskbic`,
+		url: ``,
+		check: 1,
+		comment: `SKB「30分あれば実績50個解禁できる」<br>
+		izkdic「1時間あれば発狂難易度表がなくても実績50個解禁できる」`,
+	},
+	{
 		id: 6,
 		name: `さよなら合作`,
 		url: ``,
