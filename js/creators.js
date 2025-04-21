@@ -11,6 +11,14 @@ let creators = [
 	},
 	*/
 	{
+		id: 8,
+		name: `decresc.`,
+		url: `https://avectristesse.sakura.ne.jp/`,
+		check: 1,
+		comment: `一流とそれ以外を分けるモノは<br>
+		自身が持つ視点の数に他ならない。`,
+	},
+	{
 		id: 7,
 		name: `iskbic`,
 		url: ``,
