@@ -11,6 +11,13 @@ let creators = [
 	},
 	*/
 	{
+		id: 9,
+		name: `o-cuRtaIn`,
+		url: ``,
+		check: 1,
+		comment: `ダンおに劇場、5月3日開演。`,
+	},
+	{
 		id: 8,
 		name: `decresc.`,
 		url: `https://avectristesse.sakura.ne.jp/`,
