@@ -11,6 +11,21 @@ let creators = [
 	},
 	*/
 	{
+		id: 11,
+		name: `SKB`,
+		url: `https://superkuppabros.sakura.ne.jp/hp/`,
+		check: 1,
+		comment: `締切まであと1週間というデマに騙されました！<br>
+		まだあと1ヶ月くらいありますよね？`,
+	},
+	{
+		id: 10,
+		name: `11ghts`,
+		url: ``,
+		check: 1,
+		comment: `遥か190兆キロのボヤージュ`,
+	},
+	{
 		id: 9,
 		name: `o-cuRtaIn`,
 		url: ``,
