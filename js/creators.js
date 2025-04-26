@@ -11,10 +11,17 @@ let creators = [
 	},
 	*/
 	{
+		id: 13,
+		name: `ティックル`,
+		url: `https://cw7.sakura.ne.jp/`,
+		check: 3,
+		comment: `20年が経ちましたが、7keyは楽しい！`,
+	},
+	{
 		id: 12,
 		name: `長月`,
 		url: `http://ngtkdo.stars.ne.jp/`,
-		check: 3,
+		check: 1,
 		comment: `長月はSwitch 2をよそえませんでした`,
 	},
 	{
