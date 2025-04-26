@@ -11,6 +11,13 @@ let creators = [
 	},
 	*/
 	{
+		id: 12,
+		name: `長月`,
+		url: `http://ngtkdo.stars.ne.jp/`,
+		check: 3,
+		comment: `長月はSwitch 2をよそえませんでした`,
+	},
+	{
 		id: 11,
 		name: `SKB`,
 		url: `https://superkuppabros.sakura.ne.jp/hp/`,
