@@ -29,7 +29,7 @@ let creators = [
 		id: 13,
 		name: `ティックル`,
 		url: `https://cw7.sakura.ne.jp/`,
-		check: 3,
+		check: 1,
 		comment: `20年が経ちましたが、7keyは楽しい！`,
 	},
 	{
