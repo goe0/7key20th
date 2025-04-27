@@ -11,6 +11,21 @@ let creators = [
 	},
 	*/
 	{
+		id: 15,
+		name: `1ZiQ`,
+		url: ``,
+		check: 1,
+		comment: `1譜面間に合わせました。対戦よろしくお願いします`,
+	},
+	{
+		id: 14,
+		name: `MFV2`,
+		url: `https://mfv2.sakura.ne.jp/`,
+		check: 1,
+		comment: `このあと20時より「ダンシングおにぎり ワールド Direct」を放送します。<br>
+		『ダンシングおにぎり ワールド』のくわしい情報をお届けします。放送時間は約15分です。`,
+	},
+	{
 		id: 13,
 		name: `ティックル`,
 		url: `https://cw7.sakura.ne.jp/`,
