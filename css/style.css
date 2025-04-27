@@ -214,11 +214,22 @@ section td {
 }
 
 .nameHead {
-	width: 160px;
+	width: 152px;
 }
 
 .checkHead {
-	width: 80px;
+	width: 78px;
+}
+
+.works_link {
+	display: flex;
+	justify-content: start;
+}
+
+.works_link a, .works_link span {
+	display: block;
+	font-size: 20px;
+	margin: 0 20px 20px 20px;
 }
 
 .chart {
@@ -245,7 +256,57 @@ section td {
 	cursor: pointer;
 }
 
+.border {
+	font-weight: bold;
+	font-size: 18px;
+}
+
 .border1 {
+	background: #c8c8ff;
+	color: #181818;
+}
+
+.border2 {
+	background: #c8c8ff;
+	color: #181818;
+}
+
+.border3 {
+	background: #c8c8ff;
+	color: #181818;
+}
+
+.border4 {
+	background: #c8c8ff;
+	color: #181818;
+}
+
+.border5 {
+	background: #c8c8ff;
+	color: #181818;
+}
+
+.border6 {
+	background: #c8c8ff;
+	color: #181818;
+}
+
+.border7 {
+	background: #c8c8ff;
+	color: #181818;
+}
+
+.border8 {
+	background: #c8c8ff;
+	color: #181818;
+}
+
+.border9 {
+	background: #c8c8ff;
+	color: #181818;
+}
+
+.border10 {
 	background: #c8c8ff;
 	color: #181818;
 }
