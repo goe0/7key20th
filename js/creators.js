@@ -11,6 +11,25 @@ let creators = [
 	},
 	*/
 	{
+		id: 18,
+		name: `keen spring`,
+		url: ``,
+		check: 1,
+		comment: `izk「7key20周年おめでとうございます。」<br>
+			ショ「7key20周年おめでとうございます。」<br>
+			izk「僕達からも作品をお贈りいたしますので、」<br>
+			ショ「僕達からも作品をお贈りいたしますので、」<br>
+			izk「どうぞお楽しみに！」<br>
+			ショ「どうぞお楽しみに！」`,
+	},
+	{
+		id: 17,
+		name: `Reiage`,
+		url: ``,
+		check: 1,
+		comment: `軌跡。`,
+	},
+	{
 		id: 16,
 		name: `ぽっつべサーカス団`,
 		url: ``,
