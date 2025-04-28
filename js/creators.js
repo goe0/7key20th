@@ -20,7 +20,7 @@ let creators = [
 		> Pop’nTubeは、YouTube動画で音楽ゲームを作って投稿できるサイトです。<br>
 		> 投稿されたゲームステージはパソコンで遊ぶことができます。<br>
 		> もちろん、遊ぶのも投稿するのも全て完全無料です。<br>
-		（https://popntube.com/?page_id=60 より)`,
+		（<a href="https://popntube.com/?page_id=60" target="_blank">https://popntube.com/?page_id=60</a> より)`,
 	},
 	{
 		id: 15,
