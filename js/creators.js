@@ -11,6 +11,20 @@ let creators = [
 	},
 	*/
 	{
+		id: 21,
+		name: `apoi`,
+		url: `https://apoi108.sakura.ne.jp/`,
+		check: 1,
+		comment: `間に合わせました。`,
+	},
+	{
+		id: 20,
+		name: `すずめ`,
+		url: `https://suzume.kirara.st/`,
+		check: 1,
+		comment: `20周年おめでとうございます！！`,
+	},
+	{
 		id: 19,
 		name: `神屋裂龍牙`,
 		url: `https://tseirproodni.sakura.ne.jp/`,
