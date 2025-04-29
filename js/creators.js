@@ -11,6 +11,13 @@ let creators = [
 	},
 	*/
 	{
+		id: 19,
+		name: `神屋裂龍牙`,
+		url: `https://tseirproodni.sakura.ne.jp/`,
+		check: 1,
+		comment: `丁度187作目なので`,
+	},
+	{
 		id: 18,
 		name: `keen spring`,
 		url: ``,
