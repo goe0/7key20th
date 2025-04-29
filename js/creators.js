@@ -11,6 +11,13 @@ let creators = [
 	},
 	*/
 	{
+		id: 22,
+		name: `eXisTrace`,
+		url: ``,
+		check: 1,
+		comment: `お散歩日和`,
+	},
+	{
 		id: 21,
 		name: `apoi`,
 		url: `https://apoi108.sakura.ne.jp/`,
