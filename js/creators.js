@@ -11,6 +11,13 @@ let creators = [
 	},
 	*/
 	{
+		id: 23,
+		name: `Peach Blossom`,
+		url: `http://blossom130.g3.xrea.com/`,
+		check: 1,
+		comment: `7keyでもInsane`,
+	},
+	{
 		id: 22,
 		name: `eXisTrace`,
 		url: ``,
