@@ -157,7 +157,6 @@ p {
 
 .form:hover {
 	background: #646464;
-	border-top: 1px solid #646464;
 	text-decoration: none;
 	transition: background 0s;
 }
@@ -232,10 +231,21 @@ section td {
 	margin: 0 20px 20px 20px;
 }
 
+#worksTable .idHead {
+	width: 40px;
+}
+
+.levelHead {
+	width: 170px;
+}
+
+.artistHead {
+	width: 150px;
+}
+
 .chart {
-	display: flex;
-	justify-content: start;
 	border: none;
+	text-align: left;
 }
 
 .chart2 {
@@ -243,8 +253,8 @@ section td {
 }
 
 .level {
+	display: inline-block;
 	width: 40px;
-	text-align: left;
 }
 
 .comment {
@@ -267,22 +277,22 @@ section td {
 }
 
 .border2 {
-	background: #c8c8ff;
+	background: #aaffaa;
 	color: #181818;
 }
 
 .border3 {
-	background: #c8c8ff;
-	color: #181818;
+	background: #ff00ff;
+	color: #0000ff;
 }
 
 .border4 {
-	background: #c8c8ff;
-	color: #181818;
+	background: linear-gradient(to bottom,#ff0000,#000000);
+	color: #ffffff;
 }
 
 .border5 {
-	background: #c8c8ff;
+	background: linear-gradient(to right,#de4141,#e8ac51,#f2e55c,#39a869,#4784bf,#5d5099,#a55b9a);
 	color: #181818;
 }
 
@@ -291,22 +301,42 @@ section td {
 	color: #181818;
 }
 
-.border7 {
-	background: #c8c8ff;
-	color: #181818;
+.question {
+	display: flex;
+	margin: 20px auto 30px auto;
 }
 
-.border8 {
-	background: #c8c8ff;
-	color: #181818;
+.question div {
+	margin-left: 15px;
 }
 
-.border9 {
-	background: #c8c8ff;
-	color: #181818;
+.submit {
+	width: 150px;
+	margin: 10px auto 20px;
+	font-size: 20px;
+	text-align: center;
+	background: #181818;
+	border: 1px solid #646464;
+	padding: 10px;
+	transition: background 0.2s;
 }
 
-.border10 {
-	background: #c8c8ff;
-	color: #181818;
+.submit:hover {
+	cursor: pointer;
+	background: #646464;
+	transition: background 0s;
+}
+
+.result {
+	height: 50px;
+	font-size: 20px;
+}
+
+#score {
+	margin-right: 10px;
+}
+
+.point {
+	font-size: 36px;
+	color: #ff0000;
 }
