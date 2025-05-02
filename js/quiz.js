@@ -1,4 +1,4 @@
-﻿'use strict';
+'use strict';
 
 function check() {
   let point = 0;
@@ -11,7 +11,7 @@ function check() {
     `もうちょっとで半分でしたね。`,
     `ちょうど半分正解です。可もなく不可もなく。`,
     `そこそこやりますね`,
-    `7keyクイズで7問正解！これはこれですごい`,
+    `7keyクイズで7問正解！これはこれですごい。`,
     `かなり7keyに詳しいようですね。すごい！`,
     `あと一問！惜しい！`,
     `全問正解おめでとうございます！7key博士のあなたに<a href="http://www.omission0.com/danoni/284-amanatsu/" target="_blank">賞品</a>を用意しました！`,
