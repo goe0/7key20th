@@ -240,7 +240,7 @@ let works = [
 		charts: [
 			{name: `Normal(Lv.11)`, level: -3},
 			{name: `Violence(Lv.28)`, level: 2},
-			{name: `<span class="small">Insane Hammer(Lv.31)</span>`, level: 11},
+			{name: `<span class="small">Insane Hammer(Lv.31)</span>`, level: 9},
 		],
 		adjustment: 4,
 		artist: `Dyglone`,
@@ -273,7 +273,63 @@ let works = [
 		comment: `†`,
 	},
 	{
-		text: `次の投下は休憩をはさんで20:45です`,
+		text: `第五部 - Rainbow Finale -`,
+		style: `border5`,
+	},
+	{
+		id: 21,
+		music: `rainbow`,
+		url: `http://www.omission0.com/danoni/286-rainbow/`,
+		charts: [
+			{name: `Hyper`, level: 3},
+			{name: `Extreme`, level: 8},
+		],
+		adjustment: 0,
+		artist: `ああああ`,
+		maker: `goe`,
+		comment: `７色の虹`,
+	},
+	{
+		id: 22,
+		music: `Phantasmagoria mystical expectation`,
+		url: `https://superkuppabros.sakura.ne.jp/hp/danoni/danoni/phantasmagoria.html`,
+		charts: [
+			{name: `Easy`, level: -1},
+			{name: `Normal`, level: -3},
+			{name: `Hard`, level: -10},
+			{name: `Lunatic`, level: 5},
+		],
+		adjustment: 1,
+		artist: `IOSYS`,
+		maker: `SKB`,
+		comment: `七色の幻想へ`,
+	},
+	{
+		id: 23,
+		music: `七色の星が描いたキセキ`,
+		url: `https://vorhandensein.sakura.ne.jp/danoni/394_nanairo/`,
+		charts: [
+			{name: `Sparkling`, level: -12},
+		],
+		adjustment: 0,
+		artist: `ホーキー`,
+		maker: `Reiage`,
+		comment: `ユメの続きを探しに行こう`,
+	},
+	{
+		id: 24,
+		music: `虹`,
+		url: `https://ccsyouta.sakura.ne.jp/danoni/300_clean_tears_no/niji.html`,
+		charts: [
+			{name: `Farewell`, level: -7},
+		],
+		adjustment: 0,
+		artist: `Clean Tears`,
+		maker: `さよなら合作`,
+		comment: `７弦の虹<br>７番の虹<br>７鍵の虹<br>７人の虹`,
+	},
+	{
+		text: `最終部の投下は21:25からです`,
 		style: `border0`,
 	},
 ];
