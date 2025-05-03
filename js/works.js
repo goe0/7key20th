@@ -159,7 +159,7 @@ let works = [
 			{name: `Normal`, level: -6},
 			{name: `Hard`, level: -12},
 		],
-		adjustment: -2,
+		adjustment: -1,
 		artist: `Suno, Inc.`,
 		maker: `ティックル`,
 		comment: `🐝🐝🐝`,
@@ -184,7 +184,7 @@ let works = [
 		charts: [
 			{name: `Extra`, level: 1},
 		],
-		adjustment: 0,
+		adjustment: 1,
 		artist: `Rune Caster`,
 		maker: `Cie`,
 		comment: `想い`,
@@ -198,7 +198,7 @@ let works = [
 			{name: `Hard`, level: -9},
 			{name: `Extreme`, level: 2},
 		],
-		adjustment: 2,
+		adjustment: 4,
 		artist: `Se-U-Ra`,
 		maker: `MFV2`,
 		comment: `オニギリは踊らなくても弱らないそうですが……<br>
