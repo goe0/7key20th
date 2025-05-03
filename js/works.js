@@ -129,7 +129,7 @@ let works = [
 		charts: [
 			{name: `Hard`, level: 5},
 		],
-		adjustment: 2,
+		adjustment: 1,
 		artist: `いよわ feat.星界`,
 		maker: `chip`,
 		comment: `異星にいこうね`,
