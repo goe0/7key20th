@@ -255,7 +255,7 @@ let works = [
 			{name: `Hard`, level: 2},
 			{name: `Reality`, level: 15},
 		],
-		adjustment: 2,
+		adjustment: 3,
 		artist: `lumo feat.初音ミク`,
 		maker: `chip`,
 		comment: `ESCAPE FROM REALITY`,
