@@ -355,13 +355,26 @@ let works = [
 			{name: `ANOTHER`, level: -5},
 			{name: `LEGGENDARIA`, level: -7},
 		],
-		adjustment: 0,
+		adjustment: -1,
 		artist: `MALVA. feat.a-m`,
 		maker: `decresc.`,
 		comment: `遠くの世界まで追い続け　夢の彼方へ回帰をする—─。`,
 	},
 	{
-		text: `次の投下は21:50です`,
+		id: 27,
+		music: `蘇芳天衣`,
+		url: `https://apoi108.sakura.ne.jp/danoni/1ziq_suou_ten-i/`,
+		charts: [
+			{name: `八尺瓊勾玉`, level: 12},
+		],
+		adjustment: 2,
+		artist: `Camellia`,
+		maker: `1ZiQ`,
+		comment: `20周年ということである程度のスコアまでは出るけど一定以上が全く伸びないタイプの譜面を作ろう！
+		ということで頑張りました。ラスサビの乱打は私の地力ではある程度は見えても完全には見えません。頑張ってください。`,
+	},
+	{
+		text: `次の投下は22:00です`,
 		style: `border0`,
 	},
 ];
