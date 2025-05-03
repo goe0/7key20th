@@ -367,14 +367,26 @@ let works = [
 		charts: [
 			{name: `八尺瓊勾玉`, level: 12},
 		],
-		adjustment: 2,
+		adjustment: 7,
 		artist: `Camellia`,
 		maker: `1ZiQ`,
 		comment: `20周年ということである程度のスコアまでは出るけど一定以上が全く伸びないタイプの譜面を作ろう！
 		ということで頑張りました。ラスサビの乱打は私の地力ではある程度は見えても完全には見えません。頑張ってください。`,
 	},
 	{
-		text: `次の投下は22:00です`,
+		id: 28,
+		music: `星空のさきへ`,
+		url: `http://onigiri.icekirby.net/danoni_2025/790_Hoshizora.html`,
+		charts: [
+			{name: `Advanced`, level: -8},
+		],
+		adjustment: 0,
+		artist: `Sakura Notes`,
+		maker: `蒼宮あいす`,
+		comment: `8分乱打型の星空`,
+	},
+	{
+		text: `次の投下は22:10です`,
 		style: `border0`,
 	},
 ];
