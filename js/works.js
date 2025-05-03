@@ -127,7 +127,7 @@ let works = [
 		music: `異星にいこうね`,
 		url: `https://chipstar64.sakura.ne.jp/danoni/danoni_isei.html`,
 		charts: [
-			{name: `Hard`, level: 5},
+			{name: `Hard`, level: 7},
 		],
 		adjustment: 1,
 		artist: `いよわ feat.星界`,
@@ -135,7 +135,77 @@ let works = [
 		comment: `異星にいこうね`,
 	},
 	{
-		text: `次の投下は17:40です`,
+		text: `第三部 - Dance Floor -`,
+		style: `border3`,
+	},
+	{
+		id: 11,
+		music: `金平糖の精の踊り`,
+		url: `https://ccsyouta.sakura.ne.jp/danoni/308_konpe/itou.html`,
+		charts: [
+			{name: `20th`, level: 1},
+		],
+		adjustment: 0,
+		artist: `Hupple`,
+		maker: `o-cuRtaIn`,
+		comment: `お菓子の国でのパーティー`,
+	},
+	{
+		id: 12,
+		music: `Boisterous Bee Dance`,
+		url: `https://cw7.sakura.ne.jp/danoni/2025/0391_BoisterousBeeDance.html`,
+		charts: [
+			{name: `Easy`, level: -2},
+			{name: `Normal`, level: -6},
+			{name: `Hard`, level: -12},
+		],
+		adjustment: -2,
+		artist: `Suno, Inc.`,
+		maker: `ティックル`,
+		comment: `🐝🐝🐝`,
+	},
+	{
+		id: 13,
+		music: `Love Song`,
+		url: `http://onigiri.icekirby.net/danoni_2025/788_LS.html`,
+		charts: [
+			{name: `Standard`, level: -4},
+			{name: `Advanced`, level: -8},
+		],
+		adjustment: 0,
+		artist: `Kei Morimoto`,
+		maker: `蒼宮あいす`,
+		comment: `縦連ラブソング`,
+	},
+	{
+		id: 14,
+		music: `TYR`,
+		url: `https://terz3787.sakura.ne.jp/danoni/tyr.html`,
+		charts: [
+			{name: `Extra`, level: 1},
+		],
+		adjustment: 0,
+		artist: `Rune Caster`,
+		maker: `Cie`,
+		comment: `想い`,
+	},
+	{
+		id: 15,
+		music: `4小節ごとにジャンルが変わるUsagi Flap.Remix`,
+		url: `https://mfv2.sakura.ne.jp/do/main/?id=4GenreUsagiFlap`,
+		charts: [
+			{name: `Normal`, level: -5},
+			{name: `Hard`, level: -9},
+			{name: `Extreme`, level: 2},
+		],
+		adjustment: 2,
+		artist: `Se-U-Ra`,
+		maker: `MFV2`,
+		comment: `オニギリは踊らなくても弱らないそうですが……<br>
+		私は、オニギリではありませんので。`,
+	},
+	{
+		text: `次の投下は18:30です`,
 		style: `border0`,
 	},
 ];
