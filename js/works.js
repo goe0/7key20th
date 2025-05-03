@@ -339,7 +339,7 @@ let works = [
 		charts: [
 			{name: `Magic`, level: -10},
 		],
-		adjustment: 0,
+		adjustment: 1,
 		artist: `Capchii`,
 		maker: `ぽっつべサーカス団`,
 		comment: `魔法をかけて 描いた夢は<br>
