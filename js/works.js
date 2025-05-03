@@ -198,7 +198,7 @@ let works = [
 			{name: `Hard`, level: -9},
 			{name: `Extreme`, level: 2},
 		],
-		adjustment: 4,
+		adjustment: 5,
 		artist: `Se-U-Ra`,
 		maker: `MFV2`,
 		comment: `オニギリは踊らなくても弱らないそうですが……<br>
