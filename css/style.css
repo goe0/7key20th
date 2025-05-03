@@ -243,9 +243,14 @@ section td {
 	width: 150px;
 }
 
+.makerHead {
+	width: 150px;
+}
+
 .chart {
 	border: none;
 	text-align: left;
+	width: 170px;
 }
 
 .chart2 {
@@ -255,6 +260,10 @@ section td {
 .level {
 	display: inline-block;
 	width: 40px;
+}
+
+.small {
+	font-size: 11px;
 }
 
 .comment {
@@ -271,6 +280,11 @@ section td {
 	font-size: 18px;
 }
 
+.border0 {
+	background: #c8c8ff;
+	color: #181818;
+}
+
 .border1 {
 	background: #c8c8ff;
 	color: #181818;
@@ -282,8 +296,8 @@ section td {
 }
 
 .border3 {
-	background: #ff00ff;
-	color: #0000ff;
+	background: #ff40ff;
+	color: #3232ff;
 }
 
 .border4 {
@@ -297,8 +311,10 @@ section td {
 }
 
 .border6 {
-	background: #c8c8ff;
+	background: linear-gradient(to bottom,#ffffff,#808080);
+	text-shadow: 0 0 5px #8080ff;
 	color: #181818;
+	border: 3px dashed #646464;
 }
 
 .question {
