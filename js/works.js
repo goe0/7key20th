@@ -386,7 +386,19 @@ let works = [
 		comment: `8分乱打型の星空`,
 	},
 	{
-		text: `次の投下は22:10です`,
+		id: 29,
+		music: `地球の裏`,
+		url: `https://chipstar64.sakura.ne.jp/danoni/danoni_LTBE.html`,
+		charts: [
+			{name: `Very Hard`, level: 7},
+		],
+		adjustment: 2,
+		artist: `いよわ feat.裏命`,
+		maker: `chip`,
+		comment: `地球の裏にいこうね`,
+	},
+	{
+		text: `次の投下は22:20です　残り3作品！`,
 		style: `border0`,
 	},
 ];
