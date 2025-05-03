@@ -422,7 +422,19 @@ let works = [
 		comment: `最強の安息を！`,
 	},
 	{
-		text: `次の投下は22:40です　残り1作品！`,
+		id: 32,
+		music: `Seven Colors`,
+		url: `https://superkuppabros.sakura.ne.jp/hp/danoni/danoni/seven_colors.html`,
+		charts: [
+			{name: `Normal`, level: -4},
+		],
+		adjustment: 1,
+		artist: `yu-mi`,
+		maker: `SKB`,
+		comment: `探してくんだ 自分の色`,
+	},
+	{
+		text: `全ての投下が終了しました！お疲れ様でした！`,
 		style: `border0`,
 	},
 ];
