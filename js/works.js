@@ -1,4 +1,4 @@
-﻿'use strict';
+'use strict';
 
 let works = [
 	{
@@ -25,7 +25,7 @@ let works = [
 		charts: [
 			{name: `Normal`, level: -6},
 		],
-		adjustment: 0,
+		adjustment: 2,
 		artist: `しゃろう`,
 		maker: `長月`,
 		comment: `7key20周年おめでとうございます！`,
@@ -50,7 +50,7 @@ let works = [
 			{name: `Normal`, level: -7},
 			{name: `Hard`, level: -11},
 		],
-		adjustment: 0,
+		adjustment: -1,
 		artist: `PeriTune`,
 		maker: `goe`,
 		comment: `風車のある村`,
