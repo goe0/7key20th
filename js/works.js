@@ -428,7 +428,7 @@ let works = [
 		charts: [
 			{name: `Normal`, level: -4},
 		],
-		adjustment: 1,
+		adjustment: 2,
 		artist: `yu-mi`,
 		maker: `SKB`,
 		comment: `探してくんだ 自分の色`,
