@@ -410,7 +410,19 @@ let works = [
 		comment: `季節は巡り、世界は回る`,
 	},
 	{
-		text: `次の投下は22:30です　残り2作品！`,
+		id: 31,
+		music: `ラペペペ`,
+		url: `https://suzume.kirara.st/lapaixpaixpaix/`,
+		charts: [
+			{name: `Extreme`, level: 2},
+		],
+		adjustment: 1,
+		artist: `Inagi`,
+		maker: `すずめ`,
+		comment: `最強の安息を！`,
+	},
+	{
+		text: `次の投下は22:40です　残り1作品！`,
 		style: `border0`,
 	},
 ];
