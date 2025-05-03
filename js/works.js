@@ -252,7 +252,7 @@ let works = [
 		music: `逃避ケア`,
 		url: `https://chipstar64.sakura.ne.jp/danoni/danoni_EfR.html`,
 		charts: [
-			{name: `Hard`, level: 2},
+			{name: `Hard`, level: 3},
 			{name: `Reality`, level: 15},
 		],
 		adjustment: 3,
@@ -294,7 +294,7 @@ let works = [
 		music: `Phantasmagoria mystical expectation`,
 		url: `https://superkuppabros.sakura.ne.jp/hp/danoni/danoni/phantasmagoria.html`,
 		charts: [
-			{name: `Easy`, level: -1},
+			{name: `Easy`, level: -2},
 			{name: `Normal`, level: -3},
 			{name: `Hard`, level: -10},
 			{name: `Lunatic`, level: 5},
@@ -329,7 +329,24 @@ let works = [
 		comment: `７弦の虹<br>７番の虹<br>７鍵の虹<br>７人の虹`,
 	},
 	{
-		text: `最終部の投下は21:25からです`,
+		text: `最終部 - 7key Festival -`,
+		style: `border6`,
+	},
+	{
+		id: 25,
+		music: `キミトミライヘ (2020 mix)`,
+		url: `https://superkuppabros.sakura.ne.jp/hp/danoni/danoni/kimitomirai.html`,
+		charts: [
+			{name: `Magic`, level: -10},
+		],
+		adjustment: 0,
+		artist: `Capchii`,
+		maker: `ぽっつべサーカス団`,
+		comment: `魔法をかけて 描いた夢は<br>
+			もうすぐそこにある 希望が輝く`,
+	},
+	{
+		text: `次の投下は21:35です`,
 		style: `border0`,
 	},
 ];
