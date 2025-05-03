@@ -398,7 +398,19 @@ let works = [
 		comment: `地球の裏にいこうね`,
 	},
 	{
-		text: `次の投下は22:20です　残り3作品！`,
+		id: 30,
+		music: `言霊リフレイン`,
+		url: `https://ccsyouta.sakura.ne.jp/danoni/310_kotodama/refrain.html`,
+		charts: [
+			{name: `Spiritual`, level: -8},
+		],
+		adjustment: 0,
+		artist: `tokiwa<br>feat. 中村さんそ`,
+		maker: `keen spring`,
+		comment: `季節は巡り、世界は回る`,
+	},
+	{
+		text: `次の投下は22:30です　残り2作品！`,
 		style: `border0`,
 	},
 ];
