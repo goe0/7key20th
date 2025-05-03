@@ -267,7 +267,7 @@ let works = [
 		charts: [
 			{name: `REQUIEM`, level: 16},
 		],
-		adjustment: 0,
+		adjustment: -1,
 		artist: `かめりあ`,
 		maker: `goe`,
 		comment: `†`,
