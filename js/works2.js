@@ -6,9 +6,9 @@ let works = [
 		music: `熱異常`,
 		url: `https://chipstar64.sakura.ne.jp/danoni/danoni_Ha.html`,
 		charts: [
-			{name: `Very Hard`, level: 8},
+			{name: `Very Hard`, level: 7},
 		],
-		adjustment: 0,
+		adjustment: 1,
 		artist: `いよわ<br>feat.足立レイ`,
 		maker: `chip`,
 		comment: `黒い星`,
