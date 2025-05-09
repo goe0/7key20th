@@ -169,7 +169,7 @@ let works = [
 		music: `Love Song`,
 		url: `http://onigiri.icekirby.net/danoni_2025/788_LS.html`,
 		charts: [
-			{name: `Standard`, level: -4},
+			{name: `Normal`, level: -4},
 			{name: `Advanced`, level: -8},
 		],
 		adjustment: 0,
