@@ -1,4 +1,4 @@
-﻿'use strict';
+'use strict';
 
 let works = [
 	{
@@ -12,7 +12,21 @@ let works = [
 		artist: `いよわ<br>feat.足立レイ`,
 		maker: `chip`,
 		comment: `黒い星`,
-	},	
+	},
+	{
+		id: `B`,
+		music: `雫繰のゴシック`,
+		url: `https://avectristesse.sakura.ne.jp/danoni/danoni/seven20th_SZ.html`,
+		charts: [
+			{name: `NORMAL`, level: -3},
+			{name: `HYPER`, level: -6},
+			{name: `ANOTHER`, level: -9},
+		],
+		adjustment: -1,
+		artist: `ナナシ・ゴシック`,
+		maker: `decresc.`,
+		comment: `仄暗い研究室で一人佇む、水の魔女の研究成果。すべてを流し尽くす濁流を、打ち破れ──。`,
+	},
 ];
 
 const head = {
