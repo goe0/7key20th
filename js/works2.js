@@ -27,6 +27,20 @@ let works = [
 		maker: `decresc.`,
 		comment: `仄暗い研究室で一人佇む、水の魔女の研究成果。すべてを流し尽くす濁流を、打ち破れ──。`,
 	},
+	{
+		id: `C`,
+		music: `X-Y-Z "Tiny C mix"`,
+		url: `https://cw7.sakura.ne.jp/danoni/2005/0017_X-Y-Z.html`,
+		charts: [
+			{name: `Easy`, level: -2},
+			{name: `Normal`, level: -3},
+			{name: `Hard`, level: -9},
+		],
+		adjustment: 0,
+		artist: `Cranky`,
+		maker: `ティックル`,
+		comment: `20年前の作品の移植（＋α）です。`,
+	},
 ];
 
 const head = {
