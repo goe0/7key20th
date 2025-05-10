@@ -41,6 +41,22 @@ let works = [
 		maker: `ティックル`,
 		comment: `20年前の作品の移植（＋α）です。`,
 	},
+	{
+		id: `D`,
+		music: `すい～ちゅパラダイス`,
+		url: `http://onigiri.icekirby.net/danoni_2006/84_SwP.html`,
+		charts: [
+			{name: `Beginner`, level: -1},
+			{name: `Light`, level: -3},
+			{name: `Normal`, level: -4},
+		],
+		adjustment: 0,
+		artist: `Y.W`,
+		maker: `蒼宮あいす`,
+		comment: `すぃ～ちゅなパラダイスです<br>
+		移植作品＆リメイク<br>
+		想定難易度：☆1/☆2/☆?`,
+	},
 ];
 
 const head = {
