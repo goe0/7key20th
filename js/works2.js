@@ -57,6 +57,20 @@ let works = [
 		移植作品＆リメイク<br>
 		想定難易度：☆1/☆2/☆?`,
 	},
+	{
+		id: `E`,
+		music: `マリスコール`,
+		url: `https://suzume.kirara.st/malicecall/`,
+		charts: [
+			{name: `Hard`, level: 7},
+			{name: `Extreme`, level: 14},
+			{name: `Malice`, level: 16},
+		],
+		adjustment: 0,
+		artist: `-45`,
+		maker: `すずめ`,
+		comment: `すずめはチャンスカードを引いた！ 「Malice」！ ノート数の下2桁が00になるまで矢印が増えるぞ！[単]`,
+	},
 ];
 
 const head = {
