@@ -53,16 +53,14 @@ let works = [
 		adjustment: 0,
 		artist: `Y.W`,
 		maker: `蒼宮あいす`,
-		comment: `すぃ～ちゅなパラダイスです<br>
-		移植作品＆リメイク<br>
-		想定難易度：☆1/☆2/☆?`,
+		comment: `すぃ～ちゅなパラダイスです`,
 	},
 	{
 		id: `E`,
 		music: `マリスコール`,
 		url: `https://suzume.kirara.st/malicecall/`,
 		charts: [
-			{name: `Hard`, level: 7},
+			{name: `Hard`, level: 8},
 			{name: `Extreme`, level: 14},
 			{name: `Malice`, level: 16},
 		],
@@ -70,6 +68,20 @@ let works = [
 		artist: `-45`,
 		maker: `すずめ`,
 		comment: `すずめはチャンスカードを引いた！ 「Malice」！ ノート数の下2桁が00になるまで矢印が増えるぞ！[単]`,
+	},
+	{
+		id: `F`,
+		music: `スタッフロール`,
+		url: `http://www.omission0.com/danoni/288-staffroll/`,
+		charts: [
+			{name: `Easy`, level: -4},
+			{name: `Hard`, level: -10},
+			{name: `AND YOU`, level: 11},
+		],
+		adjustment: 0,
+		artist: `赤間祐紀`,
+		maker: `goe`,
+		comment: `以上23名の提供でお送りしました。`,
 	},
 ];
 
