@@ -2,7 +2,7 @@
 
 function check() {
   let point = 0;
-  const answer = [`d`, `a`, `b`, `b`, `a`, `d`, `c`, `b`, `b`, `b`];
+  const answer = [`d`, `a`, `b`, `b`, `a`, `d`, `e`, `b`, `b`, `b`];
   const comment = [
     `逆に全問不正解なら何かあるかと思って試してみたのでしょうが、何もないですよ。`,
     `すみません。ちょっと難しすぎましたか？`,
